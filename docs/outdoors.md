@@ -1,2 +1,2 @@
 This page is under construction
-<embed src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com//kristopherkyle/professional-webpage/blob/main/docs/Kristopher%20Kyle%20CV%202021-06-03_CAS_LING.pdf" width="800px" height="2100px" />
+<embed src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kristopherkyle/professional-webpage/blob/main/docs/Kristopher%20Kyle%20CV%202021-06-03_CAS_LING.pdf" width="800px" height="2100px" />
