@@ -1,4 +1,5 @@
 # Bio
+Welcome!
 
 I am an assistant professor in the Linguistics Department of the University of Oregon.
 
