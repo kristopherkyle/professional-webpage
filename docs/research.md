@@ -9,4 +9,4 @@ Below are some selected recently published projects:
 - Zenker, F., Kyle, K. (2021). Investigating minimum text lengths for lexical diversity indices. Assessing Writing 47. https://doi.org/10.1016/j.asw.2020.100505
 
 # Current, ongoing, projects
-This is under construction
+This is under construction (but don't worry, we are doing lots of awesome things :))
