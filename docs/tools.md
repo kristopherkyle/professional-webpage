@@ -1,5 +1,5 @@
 # Desktop Tools
-A variety of desktop tools can be found at <a href = "https://www.linguisticanalysistools.org/" target="_blank">www.linguisticanalysistools.org</a>, I site I maintain in collaboration with Scott Crossley.
+A variety of desktop tools can be found at <a href = "https://www.linguisticanalysistools.org/" target="_blank">www.linguisticanalysistools.org</a>, a site I maintain in collaboration with Scott Crossley.
 
 These include:
 - <a href = "https://www.linguisticanalysistools.org/taaled.html" target="_blank">The Tool for the Automatic Analysis if Lexical Diversity (TAALED)</a>
