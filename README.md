@@ -1,7 +1,7 @@
 # Bio
 **Welcome!**
 
-I am an assistant professor in the Linguistics Department at the University of Oregon.
+I am an associate professor in the Linguistics Department at the University of Oregon.
 
 My research focuses on how readers and listeners construct an impression of proficiency based on the lexical, lexicogrammatical, and syntactic features of a particular written or spoken text. I do this work from a usage-based/emergentist framework, and generally rely on language corpora to inform models of language use.
 
