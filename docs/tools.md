@@ -4,7 +4,7 @@ A variety of desktop tools can be found at <a href="https://www.linguisticanalys
 These include:
 - <a href = "https://www.linguisticanalysistools.org/taaled.html" target="_blank">The Tool for the Automatic Analysis if Lexical Diversity (TAALED)</a>
 - <a href = "https://www.linguisticanalysistools.org/taales.html" target="_blank">The Tool for the Automatic Analysis of Lexical Sophistication (TAALES)</a>
-- <a href = "https://www.linguisticanalysistools.org//taassc.html" target="_blank">The Tool for the Automatic Analysis of Syntactic Sophistication and Complexity (TAASSC)</a>
+- <a href = "https://www.linguisticanalysistools.org/taassc.html" target="_blank">The Tool for the Automatic Analysis of Syntactic Sophistication and Complexity (TAASSC)</a>
 - among many others
 
 # Python Packages
