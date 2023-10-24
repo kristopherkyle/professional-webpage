@@ -11,5 +11,8 @@ Below are some selected recently published projects:
 - Kyle, K. (2021). Natural language processing for learner corpus research (introduction to the special issue). *International Journal of Learner Corpus Research 7*(1), pp. 1-16. https://doi.org/10.1075/ijlcr.00019.int
 
 
-# Current, ongoing, projects
-This is under construction (but don't worry, we are doing lots of awesome things :))
+# Current projects
+- We are currently finishing up Phase 2 of the ASC annotation project (gold-standard annotation of L1 written data and L2 spoken and written data), which will be used to train the second version of the ASC annotation tool
+- We are also using our ASC annotation tool to investigate the relationship between characteristics of ASC use (e.g., the strength of association between a verb and the ASC it is used with) and second language writing and speaking proficiency
+- We are in the process of refining the Lexicogrammatical Tagger (LxGrTgr) and evaluating its accuracy across a range of registers
+- We are amost finished writing up our second report on POS tagging and dependency parsing L1 and L2 texts that represent both spoken and written registers
