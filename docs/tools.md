@@ -8,11 +8,16 @@ These include:
 - among many others
 
 # Python Packages
-I have developed some text analysis Python Packages (with more on the way):
-- <a href = "https://github.com/kristopherkyle/lexical_diversity" target="_blank">lexical-diversity</a> is a toolkit for calculating a wide number of lexical diversity indices, and is the backbone of <a href = "https://www.linguisticanalysistools.org/taaled.html" target="_blank">TAALED</a>
+I have developed some text analysis Python Packages (with more in development):
+- <a href = "https://github.com/LCR-ADS-Lab/pylats" target="_blank">pylats</a> is a text pre-processing toolkit that will serve as the standard text-preprocessing protocol for upcoming releases of TAALED, TAALES, TAASSC, and TAACO (among other tools).
+- <a href = "https://pypi.org/project/taaled/" target="_blank">taaled</a> is a toolkit for calculating a wide number of lexical diversity indices, and will be the backbone of upcoming releases of<a href = "https://www.linguisticanalysistools.org/taaled.html" target="_blank">TAALED</a>
 - <a href = "https://github.com/kristopherkyle/corpus_toolkit" target="_blank">corpus-toolkit</a> is a simple but scalable corpus analysis toolkit primarily designed for introductory corpus linguistics classes.
 
 # Web Demos
-<a href = "https://kristopherkyle.pythonanywhere.com/" target="_blank">Lexicogrammatical Tagger (LxGrTgr) Beta</a>
+- <a href = "https://kristopherkyle.pythonanywhere.com/" target="_blank">Lexicogrammatical Tagger (LxGrTgr) Beta</a>
+- <a href = "https://huggingface.co/kriskyle/en_pipeline?text=Pam+threw+the+keys+on+the+roof" target="_blank">Argument Structure Construction Annotator</a>
 
-<a href = "https://huggingface.co/kriskyle/en_pipeline?text=Pam+threw+the+keys+on+the+roof" target="_blank">Argument Structure Construction Annotator</a>
+# Annotated Datasets
+
+- <a href = "https://github.com/LCR-ADS-Lab/ASC-Treebank" target="_blank">Argument structure construction (ASC) Treebank</a>
+- <a href = "https://github.com/LCR-ADS-Lab/SL2E-Dependency-Treebank" target="_blank">Dependency Treebank of Spoken L2 English (SL2E)</a>
